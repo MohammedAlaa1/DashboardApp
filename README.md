@@ -1,2 +1,2 @@
 # DashboardApp
-building a full web application.
+building a full web application using nextJS.
